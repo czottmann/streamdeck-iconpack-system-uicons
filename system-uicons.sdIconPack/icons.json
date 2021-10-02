@@ -1,0 +1,2217 @@
+[
+  {
+    "path": "airplay.png",
+    "name": "airplay",
+    "tags": []
+  },
+  {
+    "path": "alarm_clock.png",
+    "name": "alarm clock",
+    "tags": []
+  },
+  {
+    "path": "align_horizontal.png",
+    "name": "align horizontal",
+    "tags": []
+  },
+  {
+    "path": "align_vertical.png",
+    "name": "align vertical",
+    "tags": []
+  },
+  {
+    "path": "angle.png",
+    "name": "angle",
+    "tags": []
+  },
+  {
+    "path": "archive.png",
+    "name": "archive",
+    "tags": []
+  },
+  {
+    "path": "arrow_bottom_left.png",
+    "name": "arrow bottom left",
+    "tags": []
+  },
+  {
+    "path": "arrow_bottom_right.png",
+    "name": "arrow bottom right",
+    "tags": []
+  },
+  {
+    "path": "arrow_down.png",
+    "name": "arrow down",
+    "tags": []
+  },
+  {
+    "path": "arrow_down_circle.png",
+    "name": "arrow down circle",
+    "tags": []
+  },
+  {
+    "path": "arrow_left.png",
+    "name": "arrow left",
+    "tags": []
+  },
+  {
+    "path": "arrow_left_circle.png",
+    "name": "arrow left circle",
+    "tags": []
+  },
+  {
+    "path": "arrow_right.png",
+    "name": "arrow right",
+    "tags": []
+  },
+  {
+    "path": "arrow_right_circle.png",
+    "name": "arrow right circle",
+    "tags": []
+  },
+  {
+    "path": "arrow_top_left.png",
+    "name": "arrow top left",
+    "tags": []
+  },
+  {
+    "path": "arrow_top_right.png",
+    "name": "arrow top right",
+    "tags": []
+  },
+  {
+    "path": "arrow_up.png",
+    "name": "arrow up",
+    "tags": []
+  },
+  {
+    "path": "arrow_up_circle.png",
+    "name": "arrow up circle",
+    "tags": []
+  },
+  {
+    "path": "audio_wave.png",
+    "name": "audio wave",
+    "tags": []
+  },
+  {
+    "path": "backspace.png",
+    "name": "backspace",
+    "tags": []
+  },
+  {
+    "path": "backward.png",
+    "name": "backward",
+    "tags": []
+  },
+  {
+    "path": "bag.png",
+    "name": "bag",
+    "tags": []
+  },
+  {
+    "path": "battery_75.png",
+    "name": "battery 75",
+    "tags": []
+  },
+  {
+    "path": "battery_charging.png",
+    "name": "battery charging",
+    "tags": []
+  },
+  {
+    "path": "battery_empty.png",
+    "name": "battery empty",
+    "tags": []
+  },
+  {
+    "path": "battery_full.png",
+    "name": "battery full",
+    "tags": []
+  },
+  {
+    "path": "battery_half.png",
+    "name": "battery half",
+    "tags": []
+  },
+  {
+    "path": "battery_low.png",
+    "name": "battery low",
+    "tags": []
+  },
+  {
+    "path": "bell.png",
+    "name": "bell",
+    "tags": []
+  },
+  {
+    "path": "bell_disabled.png",
+    "name": "bell disabled",
+    "tags": []
+  },
+  {
+    "path": "bell_disabled__red.png",
+    "name": "bell disabled red",
+    "tags": []
+  },
+  {
+    "path": "bell_ringing.png",
+    "name": "bell ringing",
+    "tags": []
+  },
+  {
+    "path": "bell_snooze.png",
+    "name": "bell snooze",
+    "tags": []
+  },
+  {
+    "path": "bluetooth.png",
+    "name": "bluetooth",
+    "tags": []
+  },
+  {
+    "path": "book.png",
+    "name": "book",
+    "tags": []
+  },
+  {
+    "path": "book_closed.png",
+    "name": "book closed",
+    "tags": []
+  },
+  {
+    "path": "book_text.png",
+    "name": "book text",
+    "tags": []
+  },
+  {
+    "path": "bookmark.png",
+    "name": "bookmark",
+    "tags": []
+  },
+  {
+    "path": "bookmark_book.png",
+    "name": "bookmark book",
+    "tags": []
+  },
+  {
+    "path": "box.png",
+    "name": "box",
+    "tags": []
+  },
+  {
+    "path": "box_download.png",
+    "name": "box download",
+    "tags": []
+  },
+  {
+    "path": "box_open.png",
+    "name": "box open",
+    "tags": []
+  },
+  {
+    "path": "branch.png",
+    "name": "branch",
+    "tags": []
+  },
+  {
+    "path": "briefcase.png",
+    "name": "briefcase",
+    "tags": []
+  },
+  {
+    "path": "browser.png",
+    "name": "browser",
+    "tags": []
+  },
+  {
+    "path": "browser_alt.png",
+    "name": "browser alt",
+    "tags": []
+  },
+  {
+    "path": "button_add.png",
+    "name": "button add",
+    "tags": []
+  },
+  {
+    "path": "button_minus.png",
+    "name": "button minus",
+    "tags": []
+  },
+  {
+    "path": "calculator.png",
+    "name": "calculator",
+    "tags": []
+  },
+  {
+    "path": "calendar.png",
+    "name": "calendar",
+    "tags": []
+  },
+  {
+    "path": "calendar_add.png",
+    "name": "calendar add",
+    "tags": []
+  },
+  {
+    "path": "calendar_date.png",
+    "name": "calendar date",
+    "tags": []
+  },
+  {
+    "path": "calendar_day.png",
+    "name": "calendar day",
+    "tags": []
+  },
+  {
+    "path": "calendar_days.png",
+    "name": "calendar days",
+    "tags": []
+  },
+  {
+    "path": "calendar_last_day.png",
+    "name": "calendar last day",
+    "tags": []
+  },
+  {
+    "path": "calendar_month.png",
+    "name": "calendar month",
+    "tags": []
+  },
+  {
+    "path": "calendar_move.png",
+    "name": "calendar move",
+    "tags": []
+  },
+  {
+    "path": "calendar_remove.png",
+    "name": "calendar remove",
+    "tags": []
+  },
+  {
+    "path": "calendar_split.png",
+    "name": "calendar split",
+    "tags": []
+  },
+  {
+    "path": "calendar_week.png",
+    "name": "calendar week",
+    "tags": []
+  },
+  {
+    "path": "camera.png",
+    "name": "camera",
+    "tags": []
+  },
+  {
+    "path": "camera_alt.png",
+    "name": "camera alt",
+    "tags": []
+  },
+  {
+    "path": "camera_noflash.png",
+    "name": "camera noflash",
+    "tags": []
+  },
+  {
+    "path": "camera_noflash__red.png",
+    "name": "camera noflash red",
+    "tags": []
+  },
+  {
+    "path": "camera_noflash_alt.png",
+    "name": "camera noflash alt",
+    "tags": []
+  },
+  {
+    "path": "camera_noflash_alt__red.png",
+    "name": "camera noflash alt red",
+    "tags": []
+  },
+  {
+    "path": "capture.png",
+    "name": "capture",
+    "tags": []
+  },
+  {
+    "path": "card_timeline.png",
+    "name": "card timeline",
+    "tags": []
+  },
+  {
+    "path": "card_view.png",
+    "name": "card view",
+    "tags": []
+  },
+  {
+    "path": "carousel.png",
+    "name": "carousel",
+    "tags": []
+  },
+  {
+    "path": "cart.png",
+    "name": "cart",
+    "tags": []
+  },
+  {
+    "path": "cast.png",
+    "name": "cast",
+    "tags": []
+  },
+  {
+    "path": "chain.png",
+    "name": "chain",
+    "tags": []
+  },
+  {
+    "path": "chat_add.png",
+    "name": "chat add",
+    "tags": []
+  },
+  {
+    "path": "check.png",
+    "name": "check",
+    "tags": []
+  },
+  {
+    "path": "check_circle.png",
+    "name": "check circle",
+    "tags": []
+  },
+  {
+    "path": "check_circle__green.png",
+    "name": "check circle green",
+    "tags": []
+  },
+  {
+    "path": "check_circle_outside.png",
+    "name": "check circle outside",
+    "tags": []
+  },
+  {
+    "path": "check_circle_outside__green.png",
+    "name": "check circle outside green",
+    "tags": []
+  },
+  {
+    "path": "checkbox_checked.png",
+    "name": "checkbox checked",
+    "tags": []
+  },
+  {
+    "path": "checkbox_checked__green.png",
+    "name": "checkbox checked green",
+    "tags": []
+  },
+  {
+    "path": "checkbox_empty.png",
+    "name": "checkbox empty",
+    "tags": []
+  },
+  {
+    "path": "chevron_close.png",
+    "name": "chevron close",
+    "tags": []
+  },
+  {
+    "path": "chevron_down.png",
+    "name": "chevron down",
+    "tags": []
+  },
+  {
+    "path": "chevron_down_circle.png",
+    "name": "chevron down circle",
+    "tags": []
+  },
+  {
+    "path": "chevron_down_double.png",
+    "name": "chevron down double",
+    "tags": []
+  },
+  {
+    "path": "chevron_left.png",
+    "name": "chevron left",
+    "tags": []
+  },
+  {
+    "path": "chevron_left_circle.png",
+    "name": "chevron left circle",
+    "tags": []
+  },
+  {
+    "path": "chevron_left_double.png",
+    "name": "chevron left double",
+    "tags": []
+  },
+  {
+    "path": "chevron_open.png",
+    "name": "chevron open",
+    "tags": []
+  },
+  {
+    "path": "chevron_right.png",
+    "name": "chevron right",
+    "tags": []
+  },
+  {
+    "path": "chevron_right_circle.png",
+    "name": "chevron right circle",
+    "tags": []
+  },
+  {
+    "path": "chevron_right_double.png",
+    "name": "chevron right double",
+    "tags": []
+  },
+  {
+    "path": "chevron_up.png",
+    "name": "chevron up",
+    "tags": []
+  },
+  {
+    "path": "chevron_up_circle.png",
+    "name": "chevron up circle",
+    "tags": []
+  },
+  {
+    "path": "chevron_up_double.png",
+    "name": "chevron up double",
+    "tags": []
+  },
+  {
+    "path": "circle.png",
+    "name": "circle",
+    "tags": []
+  },
+  {
+    "path": "circle_menu.png",
+    "name": "circle menu",
+    "tags": []
+  },
+  {
+    "path": "circle_split.png",
+    "name": "circle split",
+    "tags": []
+  },
+  {
+    "path": "clipboard.png",
+    "name": "clipboard",
+    "tags": []
+  },
+  {
+    "path": "clipboard_add.png",
+    "name": "clipboard add",
+    "tags": []
+  },
+  {
+    "path": "clipboard_check.png",
+    "name": "clipboard check",
+    "tags": []
+  },
+  {
+    "path": "clipboard_check__green.png",
+    "name": "clipboard check green",
+    "tags": []
+  },
+  {
+    "path": "clipboard_copy.png",
+    "name": "clipboard copy",
+    "tags": []
+  },
+  {
+    "path": "clipboard_cross.png",
+    "name": "clipboard cross",
+    "tags": []
+  },
+  {
+    "path": "clipboard_notes.png",
+    "name": "clipboard notes",
+    "tags": []
+  },
+  {
+    "path": "clipboard_remove.png",
+    "name": "clipboard remove",
+    "tags": []
+  },
+  {
+    "path": "clock.png",
+    "name": "clock",
+    "tags": []
+  },
+  {
+    "path": "close.png",
+    "name": "close",
+    "tags": []
+  },
+  {
+    "path": "cloud.png",
+    "name": "cloud",
+    "tags": []
+  },
+  {
+    "path": "cloud_disconnect.png",
+    "name": "cloud disconnect",
+    "tags": []
+  },
+  {
+    "path": "cloud_disconnect__red.png",
+    "name": "cloud disconnect red",
+    "tags": []
+  },
+  {
+    "path": "cloud_download.png",
+    "name": "cloud download",
+    "tags": []
+  },
+  {
+    "path": "cloud_download_alt.png",
+    "name": "cloud download alt",
+    "tags": []
+  },
+  {
+    "path": "cloud_upload.png",
+    "name": "cloud upload",
+    "tags": []
+  },
+  {
+    "path": "cloud_upload_alt.png",
+    "name": "cloud upload alt",
+    "tags": []
+  },
+  {
+    "path": "code.png",
+    "name": "code",
+    "tags": []
+  },
+  {
+    "path": "coffee.png",
+    "name": "coffee",
+    "tags": []
+  },
+  {
+    "path": "coin.png",
+    "name": "coin",
+    "tags": []
+  },
+  {
+    "path": "coins.png",
+    "name": "coins",
+    "tags": []
+  },
+  {
+    "path": "compass.png",
+    "name": "compass",
+    "tags": []
+  },
+  {
+    "path": "component_add.png",
+    "name": "component add",
+    "tags": []
+  },
+  {
+    "path": "contacts.png",
+    "name": "contacts",
+    "tags": []
+  },
+  {
+    "path": "contract.png",
+    "name": "contract",
+    "tags": []
+  },
+  {
+    "path": "create.png",
+    "name": "create",
+    "tags": []
+  },
+  {
+    "path": "credit_card.png",
+    "name": "credit card",
+    "tags": []
+  },
+  {
+    "path": "crop.png",
+    "name": "crop",
+    "tags": []
+  },
+  {
+    "path": "cross.png",
+    "name": "cross",
+    "tags": []
+  },
+  {
+    "path": "cross__red.png",
+    "name": "cross red",
+    "tags": []
+  },
+  {
+    "path": "cross_circle.png",
+    "name": "cross circle",
+    "tags": []
+  },
+  {
+    "path": "cross_circle__red.png",
+    "name": "cross circle red",
+    "tags": []
+  },
+  {
+    "path": "crosshair.png",
+    "name": "crosshair",
+    "tags": []
+  },
+  {
+    "path": "cube.png",
+    "name": "cube",
+    "tags": []
+  },
+  {
+    "path": "cylinder.png",
+    "name": "cylinder",
+    "tags": []
+  },
+  {
+    "path": "database.png",
+    "name": "database",
+    "tags": []
+  },
+  {
+    "path": "diamond.png",
+    "name": "diamond",
+    "tags": []
+  },
+  {
+    "path": "directions.png",
+    "name": "directions",
+    "tags": []
+  },
+  {
+    "path": "disc.png",
+    "name": "disc",
+    "tags": []
+  },
+  {
+    "path": "display.png",
+    "name": "display",
+    "tags": []
+  },
+  {
+    "path": "display_alt.png",
+    "name": "display alt",
+    "tags": []
+  },
+  {
+    "path": "document.png",
+    "name": "document",
+    "tags": []
+  },
+  {
+    "path": "document_justified.png",
+    "name": "document justified",
+    "tags": []
+  },
+  {
+    "path": "document_list.png",
+    "name": "document list",
+    "tags": []
+  },
+  {
+    "path": "document_stack.png",
+    "name": "document stack",
+    "tags": []
+  },
+  {
+    "path": "document_words.png",
+    "name": "document words",
+    "tags": []
+  },
+  {
+    "path": "door.png",
+    "name": "door",
+    "tags": []
+  },
+  {
+    "path": "door_alt.png",
+    "name": "door alt",
+    "tags": []
+  },
+  {
+    "path": "download.png",
+    "name": "download",
+    "tags": []
+  },
+  {
+    "path": "download_alt.png",
+    "name": "download alt",
+    "tags": []
+  },
+  {
+    "path": "downward.png",
+    "name": "downward",
+    "tags": []
+  },
+  {
+    "path": "drag.png",
+    "name": "drag",
+    "tags": []
+  },
+  {
+    "path": "drag_circle.png",
+    "name": "drag circle",
+    "tags": []
+  },
+  {
+    "path": "drag_vertical.png",
+    "name": "drag vertical",
+    "tags": []
+  },
+  {
+    "path": "duplicate.png",
+    "name": "duplicate",
+    "tags": []
+  },
+  {
+    "path": "duplicate_alt.png",
+    "name": "duplicate alt",
+    "tags": []
+  },
+  {
+    "path": "enter.png",
+    "name": "enter",
+    "tags": []
+  },
+  {
+    "path": "enter_alt.png",
+    "name": "enter alt",
+    "tags": []
+  },
+  {
+    "path": "episodes.png",
+    "name": "episodes",
+    "tags": []
+  },
+  {
+    "path": "exit_left.png",
+    "name": "exit left",
+    "tags": []
+  },
+  {
+    "path": "exit_right.png",
+    "name": "exit right",
+    "tags": []
+  },
+  {
+    "path": "expand.png",
+    "name": "expand",
+    "tags": []
+  },
+  {
+    "path": "expand_height.png",
+    "name": "expand height",
+    "tags": []
+  },
+  {
+    "path": "expand_width.png",
+    "name": "expand width",
+    "tags": []
+  },
+  {
+    "path": "external.png",
+    "name": "external",
+    "tags": []
+  },
+  {
+    "path": "eye.png",
+    "name": "eye",
+    "tags": []
+  },
+  {
+    "path": "eye_closed.png",
+    "name": "eye closed",
+    "tags": []
+  },
+  {
+    "path": "eye_no.png",
+    "name": "eye no",
+    "tags": []
+  },
+  {
+    "path": "eye_no__red.png",
+    "name": "eye no red",
+    "tags": []
+  },
+  {
+    "path": "face_delighted.png",
+    "name": "face delighted",
+    "tags": []
+  },
+  {
+    "path": "face_happy.png",
+    "name": "face happy",
+    "tags": []
+  },
+  {
+    "path": "face_neutral.png",
+    "name": "face neutral",
+    "tags": []
+  },
+  {
+    "path": "face_sad.png",
+    "name": "face sad",
+    "tags": []
+  },
+  {
+    "path": "file_download.png",
+    "name": "file download",
+    "tags": []
+  },
+  {
+    "path": "file_upload.png",
+    "name": "file upload",
+    "tags": []
+  },
+  {
+    "path": "files_history.png",
+    "name": "files history",
+    "tags": []
+  },
+  {
+    "path": "files_multi.png",
+    "name": "files multi",
+    "tags": []
+  },
+  {
+    "path": "files_stack.png",
+    "name": "files stack",
+    "tags": []
+  },
+  {
+    "path": "film.png",
+    "name": "film",
+    "tags": []
+  },
+  {
+    "path": "filter.png",
+    "name": "filter",
+    "tags": []
+  },
+  {
+    "path": "filter_circle.png",
+    "name": "filter circle",
+    "tags": []
+  },
+  {
+    "path": "filter_single.png",
+    "name": "filter single",
+    "tags": []
+  },
+  {
+    "path": "filtering.png",
+    "name": "filtering",
+    "tags": []
+  },
+  {
+    "path": "fingerprint.png",
+    "name": "fingerprint",
+    "tags": []
+  },
+  {
+    "path": "flag.png",
+    "name": "flag",
+    "tags": []
+  },
+  {
+    "path": "flame.png",
+    "name": "flame",
+    "tags": []
+  },
+  {
+    "path": "flame_alt.png",
+    "name": "flame alt",
+    "tags": []
+  },
+  {
+    "path": "flip_view.png",
+    "name": "flip view",
+    "tags": []
+  },
+  {
+    "path": "floppy.png",
+    "name": "floppy",
+    "tags": []
+  },
+  {
+    "path": "folder_add.png",
+    "name": "folder add",
+    "tags": []
+  },
+  {
+    "path": "folder_closed.png",
+    "name": "folder closed",
+    "tags": []
+  },
+  {
+    "path": "folder_minus.png",
+    "name": "folder minus",
+    "tags": []
+  },
+  {
+    "path": "folder_open.png",
+    "name": "folder open",
+    "tags": []
+  },
+  {
+    "path": "fork_git.png",
+    "name": "fork git",
+    "tags": []
+  },
+  {
+    "path": "forward.png",
+    "name": "forward",
+    "tags": []
+  },
+  {
+    "path": "frame.png",
+    "name": "frame",
+    "tags": []
+  },
+  {
+    "path": "fullscreen.png",
+    "name": "fullscreen",
+    "tags": []
+  },
+  {
+    "path": "funnel.png",
+    "name": "funnel",
+    "tags": []
+  },
+  {
+    "path": "gauge.png",
+    "name": "gauge",
+    "tags": []
+  },
+  {
+    "path": "gift.png",
+    "name": "gift",
+    "tags": []
+  },
+  {
+    "path": "globe.png",
+    "name": "globe",
+    "tags": []
+  },
+  {
+    "path": "gps.png",
+    "name": "gps",
+    "tags": []
+  },
+  {
+    "path": "grab.png",
+    "name": "grab",
+    "tags": []
+  },
+  {
+    "path": "graph_bar.png",
+    "name": "graph bar",
+    "tags": []
+  },
+  {
+    "path": "graph_box.png",
+    "name": "graph box",
+    "tags": []
+  },
+  {
+    "path": "graph_increase.png",
+    "name": "graph increase",
+    "tags": []
+  },
+  {
+    "path": "grid.png",
+    "name": "grid",
+    "tags": []
+  },
+  {
+    "path": "grid_circles.png",
+    "name": "grid circles",
+    "tags": []
+  },
+  {
+    "path": "grid_circles_add.png",
+    "name": "grid circles add",
+    "tags": []
+  },
+  {
+    "path": "grid_small.png",
+    "name": "grid small",
+    "tags": []
+  },
+  {
+    "path": "grid_squares.png",
+    "name": "grid squares",
+    "tags": []
+  },
+  {
+    "path": "grid_squares_add.png",
+    "name": "grid squares add",
+    "tags": []
+  },
+  {
+    "path": "hand.png",
+    "name": "hand",
+    "tags": []
+  },
+  {
+    "path": "harddrive.png",
+    "name": "harddrive",
+    "tags": []
+  },
+  {
+    "path": "hash.png",
+    "name": "hash",
+    "tags": []
+  },
+  {
+    "path": "heart.png",
+    "name": "heart",
+    "tags": []
+  },
+  {
+    "path": "heart_rate.png",
+    "name": "heart rate",
+    "tags": []
+  },
+  {
+    "path": "heart_remove.png",
+    "name": "heart remove",
+    "tags": []
+  },
+  {
+    "path": "heart_remove__red.png",
+    "name": "heart remove red",
+    "tags": []
+  },
+  {
+    "path": "height.png",
+    "name": "height",
+    "tags": []
+  },
+  {
+    "path": "hierarchy.png",
+    "name": "hierarchy",
+    "tags": []
+  },
+  {
+    "path": "home.png",
+    "name": "home",
+    "tags": []
+  },
+  {
+    "path": "home_alt.png",
+    "name": "home alt",
+    "tags": []
+  },
+  {
+    "path": "home_check.png",
+    "name": "home check",
+    "tags": []
+  },
+  {
+    "path": "home_check__green.png",
+    "name": "home check green",
+    "tags": []
+  },
+  {
+    "path": "home_door.png",
+    "name": "home door",
+    "tags": []
+  },
+  {
+    "path": "import.png",
+    "name": "import",
+    "tags": []
+  },
+  {
+    "path": "inbox.png",
+    "name": "inbox",
+    "tags": []
+  },
+  {
+    "path": "inbox_alt.png",
+    "name": "inbox alt",
+    "tags": []
+  },
+  {
+    "path": "info_circle.png",
+    "name": "info circle",
+    "tags": []
+  },
+  {
+    "path": "info_circle__green.png",
+    "name": "info circle green",
+    "tags": []
+  },
+  {
+    "path": "iphone_landscape.png",
+    "name": "iphone landscape",
+    "tags": []
+  },
+  {
+    "path": "iphone_portrait.png",
+    "name": "iphone portrait",
+    "tags": []
+  },
+  {
+    "path": "jump_backward.png",
+    "name": "jump backward",
+    "tags": []
+  },
+  {
+    "path": "jump_forward.png",
+    "name": "jump forward",
+    "tags": []
+  },
+  {
+    "path": "jump_left.png",
+    "name": "jump left",
+    "tags": []
+  },
+  {
+    "path": "jump_right.png",
+    "name": "jump right",
+    "tags": []
+  },
+  {
+    "path": "keyboard.png",
+    "name": "keyboard",
+    "tags": []
+  },
+  {
+    "path": "laptop.png",
+    "name": "laptop",
+    "tags": []
+  },
+  {
+    "path": "lightbulb.png",
+    "name": "lightbulb",
+    "tags": []
+  },
+  {
+    "path": "lightbulb_on.png",
+    "name": "lightbulb on",
+    "tags": []
+  },
+  {
+    "path": "lightning.png",
+    "name": "lightning",
+    "tags": []
+  },
+  {
+    "path": "lightning_alt.png",
+    "name": "lightning alt",
+    "tags": []
+  },
+  {
+    "path": "lineweight.png",
+    "name": "lineweight",
+    "tags": []
+  },
+  {
+    "path": "link.png",
+    "name": "link",
+    "tags": []
+  },
+  {
+    "path": "link_alt.png",
+    "name": "link alt",
+    "tags": []
+  },
+  {
+    "path": "link_broken.png",
+    "name": "link broken",
+    "tags": []
+  },
+  {
+    "path": "link_horizontal.png",
+    "name": "link horizontal",
+    "tags": []
+  },
+  {
+    "path": "link_vertical.png",
+    "name": "link vertical",
+    "tags": []
+  },
+  {
+    "path": "list.png",
+    "name": "list",
+    "tags": []
+  },
+  {
+    "path": "list_add.png",
+    "name": "list add",
+    "tags": []
+  },
+  {
+    "path": "list_numbered.png",
+    "name": "list numbered",
+    "tags": []
+  },
+  {
+    "path": "loader.png",
+    "name": "loader",
+    "tags": []
+  },
+  {
+    "path": "location.png",
+    "name": "location",
+    "tags": []
+  },
+  {
+    "path": "lock.png",
+    "name": "lock",
+    "tags": []
+  },
+  {
+    "path": "lock_open.png",
+    "name": "lock open",
+    "tags": []
+  },
+  {
+    "path": "mail.png",
+    "name": "mail",
+    "tags": []
+  },
+  {
+    "path": "mail_add.png",
+    "name": "mail add",
+    "tags": []
+  },
+  {
+    "path": "mail_delete.png",
+    "name": "mail delete",
+    "tags": []
+  },
+  {
+    "path": "mail_minus.png",
+    "name": "mail minus",
+    "tags": []
+  },
+  {
+    "path": "mail_new.png",
+    "name": "mail new",
+    "tags": []
+  },
+  {
+    "path": "mail_open.png",
+    "name": "mail open",
+    "tags": []
+  },
+  {
+    "path": "mail_remove.png",
+    "name": "mail remove",
+    "tags": []
+  },
+  {
+    "path": "marquee.png",
+    "name": "marquee",
+    "tags": []
+  },
+  {
+    "path": "maximise.png",
+    "name": "maximise",
+    "tags": []
+  },
+  {
+    "path": "menu_hamburger.png",
+    "name": "menu hamburger",
+    "tags": []
+  },
+  {
+    "path": "menu_horizontal.png",
+    "name": "menu horizontal",
+    "tags": []
+  },
+  {
+    "path": "menu_vertical.png",
+    "name": "menu vertical",
+    "tags": []
+  },
+  {
+    "path": "message.png",
+    "name": "message",
+    "tags": []
+  },
+  {
+    "path": "message_writing.png",
+    "name": "message writing",
+    "tags": []
+  },
+  {
+    "path": "microphone.png",
+    "name": "microphone",
+    "tags": []
+  },
+  {
+    "path": "microphone_disabled.png",
+    "name": "microphone disabled",
+    "tags": []
+  },
+  {
+    "path": "microphone_disabled__red.png",
+    "name": "microphone disabled red",
+    "tags": []
+  },
+  {
+    "path": "microphone_muted.png",
+    "name": "microphone muted",
+    "tags": []
+  },
+  {
+    "path": "microphone_muted__red.png",
+    "name": "microphone muted red",
+    "tags": []
+  },
+  {
+    "path": "midpoint.png",
+    "name": "midpoint",
+    "tags": []
+  },
+  {
+    "path": "mini_player.png",
+    "name": "mini player",
+    "tags": []
+  },
+  {
+    "path": "minimise.png",
+    "name": "minimise",
+    "tags": []
+  },
+  {
+    "path": "minus.png",
+    "name": "minus",
+    "tags": []
+  },
+  {
+    "path": "minus_circle.png",
+    "name": "minus circle",
+    "tags": []
+  },
+  {
+    "path": "moon.png",
+    "name": "moon",
+    "tags": []
+  },
+  {
+    "path": "move.png",
+    "name": "move",
+    "tags": []
+  },
+  {
+    "path": "newspaper.png",
+    "name": "newspaper",
+    "tags": []
+  },
+  {
+    "path": "no_sign.png",
+    "name": "no sign",
+    "tags": []
+  },
+  {
+    "path": "notebook.png",
+    "name": "notebook",
+    "tags": []
+  },
+  {
+    "path": "notification.png",
+    "name": "notification",
+    "tags": []
+  },
+  {
+    "path": "nut.png",
+    "name": "nut",
+    "tags": []
+  },
+  {
+    "path": "pages.png",
+    "name": "pages",
+    "tags": []
+  },
+  {
+    "path": "panel_bottom.png",
+    "name": "panel bottom",
+    "tags": []
+  },
+  {
+    "path": "panel_center.png",
+    "name": "panel center",
+    "tags": []
+  },
+  {
+    "path": "panel_left.png",
+    "name": "panel left",
+    "tags": []
+  },
+  {
+    "path": "panel_right.png",
+    "name": "panel right",
+    "tags": []
+  },
+  {
+    "path": "panel_sectioned.png",
+    "name": "panel sectioned",
+    "tags": []
+  },
+  {
+    "path": "panel_top.png",
+    "name": "panel top",
+    "tags": []
+  },
+  {
+    "path": "paper.png",
+    "name": "paper",
+    "tags": []
+  },
+  {
+    "path": "paper_folded.png",
+    "name": "paper folded",
+    "tags": []
+  },
+  {
+    "path": "paper_plane.png",
+    "name": "paper plane",
+    "tags": []
+  },
+  {
+    "path": "paper_plane_alt.png",
+    "name": "paper plane alt",
+    "tags": []
+  },
+  {
+    "path": "paperclip.png",
+    "name": "paperclip",
+    "tags": []
+  },
+  {
+    "path": "paragraph_center.png",
+    "name": "paragraph center",
+    "tags": []
+  },
+  {
+    "path": "paragraph_end.png",
+    "name": "paragraph end",
+    "tags": []
+  },
+  {
+    "path": "paragraph_left.png",
+    "name": "paragraph left",
+    "tags": []
+  },
+  {
+    "path": "paragraph_right.png",
+    "name": "paragraph right",
+    "tags": []
+  },
+  {
+    "path": "paragraph_start.png",
+    "name": "paragraph start",
+    "tags": []
+  },
+  {
+    "path": "pen.png",
+    "name": "pen",
+    "tags": []
+  },
+  {
+    "path": "phone_landscape.png",
+    "name": "phone landscape",
+    "tags": []
+  },
+  {
+    "path": "phone_portrait.png",
+    "name": "phone portrait",
+    "tags": []
+  },
+  {
+    "path": "picture.png",
+    "name": "picture",
+    "tags": []
+  },
+  {
+    "path": "pie_half.png",
+    "name": "pie half",
+    "tags": []
+  },
+  {
+    "path": "pie_quarter.png",
+    "name": "pie quarter",
+    "tags": []
+  },
+  {
+    "path": "pie_third.png",
+    "name": "pie third",
+    "tags": []
+  },
+  {
+    "path": "play_button.png",
+    "name": "play button",
+    "tags": []
+  },
+  {
+    "path": "plus.png",
+    "name": "plus",
+    "tags": []
+  },
+  {
+    "path": "plus_circle.png",
+    "name": "plus circle",
+    "tags": []
+  },
+  {
+    "path": "postcard.png",
+    "name": "postcard",
+    "tags": []
+  },
+  {
+    "path": "printer.png",
+    "name": "printer",
+    "tags": []
+  },
+  {
+    "path": "projector.png",
+    "name": "projector",
+    "tags": []
+  },
+  {
+    "path": "pull_down.png",
+    "name": "pull down",
+    "tags": []
+  },
+  {
+    "path": "pull_left.png",
+    "name": "pull left",
+    "tags": []
+  },
+  {
+    "path": "pull_right.png",
+    "name": "pull right",
+    "tags": []
+  },
+  {
+    "path": "pull_up.png",
+    "name": "pull up",
+    "tags": []
+  },
+  {
+    "path": "push_down.png",
+    "name": "push down",
+    "tags": []
+  },
+  {
+    "path": "push_left.png",
+    "name": "push left",
+    "tags": []
+  },
+  {
+    "path": "push_right.png",
+    "name": "push right",
+    "tags": []
+  },
+  {
+    "path": "push_up.png",
+    "name": "push up",
+    "tags": []
+  },
+  {
+    "path": "question_circle.png",
+    "name": "question circle",
+    "tags": []
+  },
+  {
+    "path": "radio_on.png",
+    "name": "radio on",
+    "tags": []
+  },
+  {
+    "path": "receipt.png",
+    "name": "receipt",
+    "tags": []
+  },
+  {
+    "path": "record.png",
+    "name": "record",
+    "tags": []
+  },
+  {
+    "path": "record__red.png",
+    "name": "record red",
+    "tags": []
+  },
+  {
+    "path": "redo.png",
+    "name": "redo",
+    "tags": []
+  },
+  {
+    "path": "refresh.png",
+    "name": "refresh",
+    "tags": []
+  },
+  {
+    "path": "refresh_alt.png",
+    "name": "refresh alt",
+    "tags": []
+  },
+  {
+    "path": "replicate.png",
+    "name": "replicate",
+    "tags": []
+  },
+  {
+    "path": "replicate_alt.png",
+    "name": "replicate alt",
+    "tags": []
+  },
+  {
+    "path": "reset.png",
+    "name": "reset",
+    "tags": []
+  },
+  {
+    "path": "reset_alt.png",
+    "name": "reset alt",
+    "tags": []
+  },
+  {
+    "path": "reset_forward.png",
+    "name": "reset forward",
+    "tags": []
+  },
+  {
+    "path": "reset_hard.png",
+    "name": "reset hard",
+    "tags": []
+  },
+  {
+    "path": "reset_temporary.png",
+    "name": "reset temporary",
+    "tags": []
+  },
+  {
+    "path": "retweet.png",
+    "name": "retweet",
+    "tags": []
+  },
+  {
+    "path": "reuse.png",
+    "name": "reuse",
+    "tags": []
+  },
+  {
+    "path": "reverse.png",
+    "name": "reverse",
+    "tags": []
+  },
+  {
+    "path": "reverse_alt.png",
+    "name": "reverse alt",
+    "tags": []
+  },
+  {
+    "path": "revert.png",
+    "name": "revert",
+    "tags": []
+  },
+  {
+    "path": "rocket.png",
+    "name": "rocket",
+    "tags": []
+  },
+  {
+    "path": "ruler.png",
+    "name": "ruler",
+    "tags": []
+  },
+  {
+    "path": "scale.png",
+    "name": "scale",
+    "tags": []
+  },
+  {
+    "path": "scale_contract.png",
+    "name": "scale contract",
+    "tags": []
+  },
+  {
+    "path": "scale_extend.png",
+    "name": "scale extend",
+    "tags": []
+  },
+  {
+    "path": "scalpel.png",
+    "name": "scalpel",
+    "tags": []
+  },
+  {
+    "path": "search.png",
+    "name": "search",
+    "tags": []
+  },
+  {
+    "path": "server.png",
+    "name": "server",
+    "tags": []
+  },
+  {
+    "path": "settings.png",
+    "name": "settings",
+    "tags": []
+  },
+  {
+    "path": "share.png",
+    "name": "share",
+    "tags": []
+  },
+  {
+    "path": "share_alt.png",
+    "name": "share alt",
+    "tags": []
+  },
+  {
+    "path": "shuffle.png",
+    "name": "shuffle",
+    "tags": []
+  },
+  {
+    "path": "side_menu.png",
+    "name": "side menu",
+    "tags": []
+  },
+  {
+    "path": "slash_backward.png",
+    "name": "slash backward",
+    "tags": []
+  },
+  {
+    "path": "slash_forward.png",
+    "name": "slash forward",
+    "tags": []
+  },
+  {
+    "path": "sliders.png",
+    "name": "sliders",
+    "tags": []
+  },
+  {
+    "path": "sort.png",
+    "name": "sort",
+    "tags": []
+  },
+  {
+    "path": "sort_alt.png",
+    "name": "sort alt",
+    "tags": []
+  },
+  {
+    "path": "speaker.png",
+    "name": "speaker",
+    "tags": []
+  },
+  {
+    "path": "speech_bubble.png",
+    "name": "speech bubble",
+    "tags": []
+  },
+  {
+    "path": "speech_typing.png",
+    "name": "speech typing",
+    "tags": []
+  },
+  {
+    "path": "split.png",
+    "name": "split",
+    "tags": []
+  },
+  {
+    "path": "split_three.png",
+    "name": "split three",
+    "tags": []
+  },
+  {
+    "path": "star.png",
+    "name": "star",
+    "tags": []
+  },
+  {
+    "path": "sun.png",
+    "name": "sun",
+    "tags": []
+  },
+  {
+    "path": "support.png",
+    "name": "support",
+    "tags": []
+  },
+  {
+    "path": "swap.png",
+    "name": "swap",
+    "tags": []
+  },
+  {
+    "path": "switch.png",
+    "name": "switch",
+    "tags": []
+  },
+  {
+    "path": "table.png",
+    "name": "table",
+    "tags": []
+  },
+  {
+    "path": "table_header.png",
+    "name": "table header",
+    "tags": []
+  },
+  {
+    "path": "tag.png",
+    "name": "tag",
+    "tags": []
+  },
+  {
+    "path": "tag_milestone.png",
+    "name": "tag milestone",
+    "tags": []
+  },
+  {
+    "path": "tags.png",
+    "name": "tags",
+    "tags": []
+  },
+  {
+    "path": "target.png",
+    "name": "target",
+    "tags": []
+  },
+  {
+    "path": "thread.png",
+    "name": "thread",
+    "tags": []
+  },
+  {
+    "path": "thumbs_down.png",
+    "name": "thumbs down",
+    "tags": []
+  },
+  {
+    "path": "thumbs_up.png",
+    "name": "thumbs up",
+    "tags": []
+  },
+  {
+    "path": "ticket.png",
+    "name": "ticket",
+    "tags": []
+  },
+  {
+    "path": "timeline.png",
+    "name": "timeline",
+    "tags": []
+  },
+  {
+    "path": "todo.png",
+    "name": "todo",
+    "tags": []
+  },
+  {
+    "path": "toggle.png",
+    "name": "toggle",
+    "tags": []
+  },
+  {
+    "path": "toggles.png",
+    "name": "toggles",
+    "tags": []
+  },
+  {
+    "path": "translate.png",
+    "name": "translate",
+    "tags": []
+  },
+  {
+    "path": "trash.png",
+    "name": "trash",
+    "tags": []
+  },
+  {
+    "path": "trash_alt.png",
+    "name": "trash alt",
+    "tags": []
+  },
+  {
+    "path": "trophy.png",
+    "name": "trophy",
+    "tags": []
+  },
+  {
+    "path": "tv_mode.png",
+    "name": "tv mode",
+    "tags": []
+  },
+  {
+    "path": "unarchive.png",
+    "name": "unarchive",
+    "tags": []
+  },
+  {
+    "path": "undo.png",
+    "name": "undo",
+    "tags": []
+  },
+  {
+    "path": "undo_history.png",
+    "name": "undo history",
+    "tags": []
+  },
+  {
+    "path": "unlink_horizontal.png",
+    "name": "unlink horizontal",
+    "tags": []
+  },
+  {
+    "path": "unlink_vertical.png",
+    "name": "unlink vertical",
+    "tags": []
+  },
+  {
+    "path": "upload.png",
+    "name": "upload",
+    "tags": []
+  },
+  {
+    "path": "upload_alt.png",
+    "name": "upload alt",
+    "tags": []
+  },
+  {
+    "path": "upward.png",
+    "name": "upward",
+    "tags": []
+  },
+  {
+    "path": "user.png",
+    "name": "user",
+    "tags": []
+  },
+  {
+    "path": "user_add.png",
+    "name": "user add",
+    "tags": []
+  },
+  {
+    "path": "user_circle.png",
+    "name": "user circle",
+    "tags": []
+  },
+  {
+    "path": "user_male.png",
+    "name": "user male",
+    "tags": []
+  },
+  {
+    "path": "user_male_circle.png",
+    "name": "user male circle",
+    "tags": []
+  },
+  {
+    "path": "user_remove.png",
+    "name": "user remove",
+    "tags": []
+  },
+  {
+    "path": "users.png",
+    "name": "users",
+    "tags": []
+  },
+  {
+    "path": "venn.png",
+    "name": "venn",
+    "tags": []
+  },
+  {
+    "path": "version.png",
+    "name": "version",
+    "tags": []
+  },
+  {
+    "path": "versions.png",
+    "name": "versions",
+    "tags": []
+  },
+  {
+    "path": "video.png",
+    "name": "video",
+    "tags": []
+  },
+  {
+    "path": "volume_0.png",
+    "name": "volume 0",
+    "tags": []
+  },
+  {
+    "path": "volume_add.png",
+    "name": "volume add",
+    "tags": []
+  },
+  {
+    "path": "volume_disabled.png",
+    "name": "volume disabled",
+    "tags": []
+  },
+  {
+    "path": "volume_disabled__red.png",
+    "name": "volume disabled red",
+    "tags": []
+  },
+  {
+    "path": "volume_high.png",
+    "name": "volume high",
+    "tags": []
+  },
+  {
+    "path": "volume_low.png",
+    "name": "volume low",
+    "tags": []
+  },
+  {
+    "path": "volume_minus.png",
+    "name": "volume minus",
+    "tags": []
+  },
+  {
+    "path": "volume_muted.png",
+    "name": "volume muted",
+    "tags": []
+  },
+  {
+    "path": "volume_muted__red.png",
+    "name": "volume muted red",
+    "tags": []
+  },
+  {
+    "path": "wallet.png",
+    "name": "wallet",
+    "tags": []
+  },
+  {
+    "path": "warning_circle.png",
+    "name": "warning circle",
+    "tags": []
+  },
+  {
+    "path": "warning_circle__red.png",
+    "name": "warning circle red",
+    "tags": []
+  },
+  {
+    "path": "warning_hex.png",
+    "name": "warning hex",
+    "tags": []
+  },
+  {
+    "path": "warning_hex__red.png",
+    "name": "warning hex red",
+    "tags": []
+  },
+  {
+    "path": "warning_triangle.png",
+    "name": "warning triangle",
+    "tags": []
+  },
+  {
+    "path": "warning_triangle__red.png",
+    "name": "warning triangle red",
+    "tags": []
+  },
+  {
+    "path": "waves.png",
+    "name": "waves",
+    "tags": []
+  },
+  {
+    "path": "width.png",
+    "name": "width",
+    "tags": []
+  },
+  {
+    "path": "wifi.png",
+    "name": "wifi",
+    "tags": []
+  },
+  {
+    "path": "wifi_error.png",
+    "name": "wifi error",
+    "tags": []
+  },
+  {
+    "path": "wifi_none.png",
+    "name": "wifi none",
+    "tags": []
+  },
+  {
+    "path": "wifi_none__red.png",
+    "name": "wifi none red",
+    "tags": []
+  },
+  {
+    "path": "window.png",
+    "name": "window",
+    "tags": []
+  },
+  {
+    "path": "window_collapse_left.png",
+    "name": "window collapse left",
+    "tags": []
+  },
+  {
+    "path": "window_collapse_right.png",
+    "name": "window collapse right",
+    "tags": []
+  },
+  {
+    "path": "window_content.png",
+    "name": "window content",
+    "tags": []
+  },
+  {
+    "path": "wrap_back.png",
+    "name": "wrap back",
+    "tags": []
+  },
+  {
+    "path": "wrap_forward.png",
+    "name": "wrap forward",
+    "tags": []
+  },
+  {
+    "path": "write.png",
+    "name": "write",
+    "tags": []
+  },
+  {
+    "path": "zoom_cancel.png",
+    "name": "zoom cancel",
+    "tags": []
+  },
+  {
+    "path": "zoom_in.png",
+    "name": "zoom in",
+    "tags": []
+  },
+  {
+    "path": "zoom_out.png",
+    "name": "zoom out",
+    "tags": []
+  },
+  {
+    "path": "zoom_reset.png",
+    "name": "zoom reset",
+    "tags": []
+  }
+]
