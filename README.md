@@ -13,7 +13,7 @@ red/green alternatives.
 
 ## How to install
 
-1. Download the `Source code (ZIP)` of the [latest release](releases)
+1. Download the `Source code (ZIP)` file of the [latest release](https://github.com/carlo/streamdeck-iconpack-system-uicons/releases)
 2. Extract the downloaded ZIP file. Find the contained folder named `system-uicons.sdIconPack`
 3. Move `system-uicons.sdIconPack` into the `IconPacks/` directory in your local SD data folder✱
 4. Quit the Stream Deck software and restart it
