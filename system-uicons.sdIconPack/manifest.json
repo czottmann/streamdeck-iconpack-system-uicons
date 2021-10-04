@@ -1,9 +1,9 @@
 {
   "Author": "Carlo Zottmann (icon pack), Corey Ginnivan (original System UIcons)",
-  "Description": "This is a free Stream Deck icon pack, based on the System UIcons iconset by Corey Ginnivan.",
+  "Description": "A free icon pack based on the Corey Ginnivan' System UIcons iconset.  Consists of 443 icons.",
   "Name": "System UIcons",
   "URL": "https://streamdeck-iconpacks.czm.io",
-  "Version": "1.2",
+  "Version": "1.3",
   "Icon": "icons/create.png",
-  "Tags": ""
+  "Tags": "system uicons"
 }
